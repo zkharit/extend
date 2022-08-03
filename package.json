@@ -1,0 +1,8 @@
+{
+    "name": "extend",
+    "version": "1.0.0",
+    "devDependencies": {},
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
+}
